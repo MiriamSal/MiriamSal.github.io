@@ -8,10 +8,13 @@ body {
     font-family: arial sans-serif;
     color: white;
   }
+  .ul { 
+    color: white;
+  }
  
   .about-me {           
     background-color: #ffcccc;
-    padding: 100px;
-    border-radius: 80px;
+    padding: 80px;
+    border-radius: 90px;
+    width: 1040px;
   }
-  
